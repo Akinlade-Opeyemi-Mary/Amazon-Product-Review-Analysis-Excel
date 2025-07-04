@@ -1,7 +1,7 @@
 # Amazon-Product-Review-Analysis-Excel
 📊 Excel Case Study  Analyzing Amazon product reviews to uncover insights on pricing, discounts, ratings, and customer engagement. Includes pivot tables, data cleaning, and an interactive Excel dashboard
 
-# 📘 Introduction
+# 📘 INTRODUCTION
 
 In the fast-paced world of e-commerce, customer reviews and pricing strategies play a crucial role in influencing buyer behavior. Sellers on platforms like **Amazon** must continuously analyze feedback, ratings, and product performance to stay competitive and improve sales outcomes.
 
@@ -14,7 +14,7 @@ The primary focus of this analysis was to answer key business questions, such as
 - 💰 How are products distributed across pricing ranges?  
 - 🎯 Where should sellers concentrate their efforts to boost engagement and revenue?
 
-# 🏢 Background
+# 🏢 BACKGROND
 
 As a **Junior Data Analyst** at *RetailTech Insights*, a fictional e-commerce analytics company, I was tasked with analyzing product review data scraped from Amazon. This project simulates a real-world business analytics workflow from raw data preparation to visual dashboard delivery with the goal of guiding product strategy and performance evaluation for online sellers.
 
