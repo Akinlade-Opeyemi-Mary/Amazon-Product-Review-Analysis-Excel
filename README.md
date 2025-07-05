@@ -274,4 +274,58 @@ Below are the top 6 highest-rated products based on **average customer ratings**
   - Capitalize on **consumer trust**
     
 
+## 5. What is the average actual price vs the discounted price by category?
+
+📌 **Approach**:  
+Used Excel Pivot Table to:
+- Add **Product Category** to Rows
+- Compute **Average of Actual Price** and **Average of Discounted Price** in Values
+- Sorted by highest Average Actual Price to highlight premium categories and discount patterns
+
+📈 **Result**:  
+The table below displays the **top 50 categories** with the highest average actual and discounted prices:
+
+| Product Category | Avg Actual Price | Avg Discounted Price |
+|------------------|------------------|------------------------|
+| Home&Kitchen → Heating, Cooling & Air Quality → Split-System Air Conditioners | $75,990.00 | $42,990.00 |
+| Computers&Accessories → Laptops → Traditional Laptops | $59,890.00 | $37,247.00 |
+| Home&Kitchen → Vacuum & Floor Care → Robotic Vacuums | $44,949.50 | $23,449.50 |
+| Electronics → Televisions → Smart Televisions | $40,132.84 | $24,840.19 |
+| Computers&Accessories → Tablets | $37,999.00 | $26,999.00 |
+| Computers&Accessories → External Solid State Drives | $32,000.00 | $10,389.00 |
+| Home&Kitchen → Air Purifiers → HEPA Air Purifiers | $27,113.25 | $11,917.00 |
+| Home&Kitchen → Cold Press Juicers | $23,999.00 | $12,609.00 |
+| Electronics → Smartphones | $20,593.40 | $15,754.44 |
+| Electronics → Projectors | $18,293.33 | $9,990.00 |
+| Computers&Accessories → Monitors | $16,430.00 | $8,199.00 |
+| Home&Kitchen → Water Purifiers | $15,618.83 | $7,015.25 |
+| Electronics → Televisions → Standard Televisions | $15,329.67 | $7,180.83 |
+| Electronics → Soundbar Speakers | $12,499.00 | $4,999.00 |
+| Home&Kitchen → Air Fryers | $12,116.80 | $6,276.40 |
+| Home&Kitchen → Storage Water Heaters | $11,738.17 | $6,323.33 |
+| Home&Kitchen → Stand Mixers | $11,495.00 | $5,999.00 |
+| Home&Kitchen → Wet-Dry Vacuums | $9,856.83 | $5,646.33 |
+| Home&Kitchen → Room Heaters | $9,499.50 | $4,524.00 |
+| Home&Kitchen → Pressure Washers & Steam Cleaners | $9,329.33 | $5,229.00 |
+| Electronics → Smart Watches | $8,554.76 | $2,339.70 |
+| Home&Kitchen → Canister Vacuums | $7,448.25 | $5,399.00 |
+| Computers&Accessories → Inkjet Printers | $6,750.00 | $5,923.50 |
+| Computers&Accessories → Printers | $5,897.65 | $5,065.67 |
+| Home&Kitchen → Espresso Machines | $5,795.00 | $4,799.00 |
+| Home&Kitchen → Juicers | $5,597.00 | $3,499.00 |
+| Home&Kitchen → Oven Toaster Grills | $5,497.00 | $5,149.00 |
+| Home&Kitchen → Mixer Grinders | $5,289.59 | $3,004.72 |
+| Electronics → Security Cameras → Dome Cameras | $5,097.60 | $2,757.20 |
+| Home&Kitchen → Handheld Vacuums | $5,059.38 | $2,780.38 |
+
+ Table showing average actual and discounted prices by category (top 30 categories)
+
+---
+
+💡 **Insight**:
+- **High-priced tech** (e.g., SSDs, laptops, monitors) experience significant **discounting margins**, often up to **60–70% off**.
+- Categories like **USB adapters**, **gaming peripherals**, and **webcams** show moderate discounts, potentially indicating **high demand with less price elasticity**.
+- **Basic accessories** (e.g., cable protectors, dust covers, lamps) retain **low actual prices** with **deep markdowns**, possibly to drive **impulse or bulk purchases**.
+- **Laptop and PC accessory segments** consistently show **pricing sensitivity**, revealing ample room for bundling, pricing strategies, or value packaging.
+
 
