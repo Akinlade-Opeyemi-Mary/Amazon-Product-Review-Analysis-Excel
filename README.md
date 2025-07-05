@@ -42,3 +42,36 @@ This analysis focused on generating actionable insights for e-commerce sellers u
 14. Rank the top five products based on a combination of rating and review volume.
 
 These objectives guided the creation of pivot tables, calculated columns, and visual dashboards that support better product positioning, pricing decisions, and customer engagement strategies.
+
+# 📂 SOURCES
+
+**Dataset Origin**:  
+This dataset was provided by Digital Skills Africa / The Incubator Hub as part of the Excel capstone project. It simulates real-world e-commerce data scraped from Amazon product pages, with a focus on product pricing, customer reviews, and engagement metrics.
+
+**Dataset Overview**:  
+The dataset contains **1,465 rows** and **20 columns**, with each row representing a unique product and its aggregated review data.
+
+**Primary Columns Included**:
+
+- `Product_Id`: Unique identifier for each product  
+- `Product_Name`: Name or title of the product  
+- `Category`: The product category (e.g., Electronics, Books, Clothing)  
+- `Discounted_Price`: Current price after discount  
+- `Actual_Price`: Original price before discount  
+- `Discount Percentage`: Calculated % off between actual and discounted price  
+- `Rating`: Average customer rating  
+- `Rating_Count`: Total number of ratings  
+- `Price Bucket Range`: Custom-calculated field grouping products by price (e.g., <₹200, ₹200–₹500, >₹500)  
+- `Discount >=50`: Flag for products with 50% or more discount (TRUE/FALSE)  
+- `Potential Revenue`: Estimated revenue = Actual_Price × Rating_Count  
+- `Average Rating`: Calculated average rating across product categories  
+- `About_Product`: Short description of the product  
+- `User_Id`: ID of the reviewer  
+- `Username`: Name or alias of the reviewer  
+- `Review_Id`: Unique identifier for each review  
+- `Review_Title`: Title of the customer review  
+- `Review_Content`: Full content/body of the customer review  
+- `Img_Link`: Image link for the product (optional)  
+- `Product_Link`: Link to the Amazon product page
+
+This structured dataset enabled deep exploration of consumer behavior, discount strategies, and category-level performance for better decision-making and dashboard storytelling.
