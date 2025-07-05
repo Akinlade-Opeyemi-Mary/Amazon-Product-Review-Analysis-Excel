@@ -283,7 +283,7 @@ Used Excel Pivot Table to:
 - Sorted by highest Average Actual Price to highlight premium categories and discount patterns
 
 📈 **Result**:  
-The table below displays the **top 50 categories** with the highest average actual and discounted prices:
+The table below displays the **top 30 categories** with the highest average actual and discounted prices:
 
 | Product Category | Avg Actual Price | Avg Discounted Price |
 |------------------|------------------|------------------------|
