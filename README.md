@@ -131,7 +131,9 @@ Used an **Excel Pivot Table** where:
 - `Product Name` was counted in **Values** (Count)
 
 ### 📈 Result:
-A snapshot of **bar chart** displaying the **top 10 categories** by product count for clearer interpretation.
+A snapshot of the pivot output shows the **average discount percentage** applied across all product categories.
+
+![Alt text](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/b7a2e01a7f5598e2f8cb1c6a9bad60ede23f704d/category.JPG)
 
 
 ### 🔍 Key Findings:
@@ -166,9 +168,10 @@ Used an **Excel Pivot Table** where:
 - `Review_Id` was counted in **Values** (Count)
 
 ### 📈 Result:
-A snapshot of bar chart displaying the **top 10 categories by total review count** for clearer interpretation.
+A snapshot of column chart displaying the **top 10 categories by total review count** for clearer interpretation.
 
-*Alt text: Bar chart showing total number of reviews by product category*
+*Alt text: Column chart showing total number of reviews by product category*
+
 
 ### 🔍 Key Findings:
 - **Top-reviewed categories:**
