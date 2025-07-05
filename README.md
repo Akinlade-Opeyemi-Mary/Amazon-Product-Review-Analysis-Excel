@@ -213,7 +213,7 @@ Categories with fewer reviews may:
  
   ---    
 
-### 4. Which products have the highest average ratings?
+## 4. Which products have the highest average ratings?
 
 📌 **Approach**:  
 Used Excel sorting on the dataset where:
