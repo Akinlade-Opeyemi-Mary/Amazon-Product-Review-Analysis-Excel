@@ -211,3 +211,58 @@ Categories with fewer reviews may:
   - **Encourage user-generated reviews**
   - **Explore emerging demand or underserved needs**
 
+### 4. Which products have the highest average ratings?
+
+📌 **Approach**:  
+Used Excel sorting on the dataset where:
+- Grouped by **Product Name**
+- Calculated the **Average Rating**
+- Sorted in descending order to extract the **top-rated products**
+
+📈 **Result**:  
+Below are the top 6 highest-rated products based on **average customer ratings**:
+
+| Product Name | Average Rating |
+|--------------|----------------|
+| Syncwire LTG to USB Cable for Fast Charging Compatible with Phone 5/5C/5S/6/6S/7/8/X/XR/XS Max/11/12/13 Series and Pad Air/Mini, Pod & Other Devices (1.1 Meter, White) | 5.00 |
+| REDTECH USB-C to Lightning Cable 3.3FT, [Apple MFi Certified] Lightning to Type C Fast Charging Cord Compatible with iPhone 14/13/13 Pro/Max/12/11/X/XS/XR/8, Supports Power Delivery - White | 5.00 |
+| Amazon Basics Wireless Mouse – 2.4 GHz Connection, 1600 DPI, Type-C Adapter, 12-Month Battery Life | 5.00 |
+| Swiffer Instant Electric Water Heater Faucet Tap Home-Kitchen Instantaneous Water Heater Tankless for Tap, LED Electric Head Water Heaters Tail Gallon Comfort (3000W) (Pack of 1) | 4.80 |
+| Oratech Coffee Frother Electric, Coffee Beater, Froth Maker, Coffee Blender (6 Month Warranty, Multicolour) | 4.80 |
+| Instant Pot Air Fryer, Vortex 2QT, 360° EvenCrisp™ Technology, 4-in-1 Appliance: Air Fry, Roast, Bake, Reheat (Black) | 4.80 |
+
+🔍 **Key Findings**:
+- **Perfect Ratings (5.00)**:  
+  - 3 products achieved perfect scores:  
+    - Syncwire LTG USB Cable  
+    - REDTECH Lightning Cable  
+    - Amazon Basics Wireless Mouse
+
+- **High Ratings (4.80)**:  
+  - Top-rated **home and kitchen appliances** include:  
+    - Water heater tap  
+    - Electric coffee frother  
+    - Air fryer
+
+---
+
+💡 **Insight**:
+- Tech **accessories** and **peripherals** are consistently top-rated, indicating **strong product quality** and **user satisfaction**.
+- **Small kitchen gadgets** with high ratings reflect:
+  - **Efficient design**
+  - **Frequent usage**
+  - **Trust in utility brands**
+
+---
+
+🎯 **Business Implication**:
+- Products with **5-star consistency** are:
+  - Excellent for **highlighting in promotions**
+  - Strong candidates for **bundling**
+  - Effective in **recommendation systems**
+
+- Sellers of **top-rated home gadgets** can:
+  - Use **positive reviews** in advertising
+  - Run **testi**
+
+
