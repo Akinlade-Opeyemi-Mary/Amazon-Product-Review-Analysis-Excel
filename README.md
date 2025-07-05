@@ -112,10 +112,13 @@ Below is a snapshot of the average discount across different product categories:
 
 ![Alt text](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/615e0caaaccbc0bcfe1ccbbf39e1b17b4ff6064a/AVERAGE%20PRODUCT%20CATEGORY.JPG)
 
-> 💡 **Insight:**  
-> Categories such as *Mobile Accessories, Earpads, Internal Hard Drives,* and *OTG Adapters* have average discounts of over **70–90%**, indicating heavy promotional pricing strategies.  
-> This may be an effort to boost visibility or clear out overstocked items.  
-> On the other hand, essential or high-end products (e.g., laptops, ink cartridges, home appliances) tend to have much **lower discounts (10–30%)**, possibly to retain premium value.
+#### 💡 Insight
+
+Categories such as **Mobile Accessories**, **Earpads**, **Internal Hard Drives**, and **OTG Adapters** have average discounts ranging from **70% to 90%**, indicating aggressive promotional pricing strategies.  
+This may suggest attempts to boost visibility, compete in saturated markets, or quickly clear out overstocked inventory.
+
+In contrast, more essential or premium products such as **laptops**, **ink cartridges**, and **high-end home appliances** tend to offer much lower discounts (typically **10% to 30%**), likely reflecting their perceived value and the desire to maintain a premium brand position.
+
 
 #### 🎯 Business Implication:
 - Sellers may focus high discounts on mobile and headphone accessories to attract price-sensitive customers.
