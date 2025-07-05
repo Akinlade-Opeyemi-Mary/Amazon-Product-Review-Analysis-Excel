@@ -133,7 +133,6 @@ Used an **Excel Pivot Table** where:
 ### 📈 Result:
 A snapshot of **bar chart** displaying the **top 10 categories** by product count for clearer interpretation.
 
-![Alt text](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/fe63adb5033bc46b7d91ea0b13cc744300822635/product%20per%20category.JPG)
 
 ### 🔍 Key Findings:
 - **Top category**:
