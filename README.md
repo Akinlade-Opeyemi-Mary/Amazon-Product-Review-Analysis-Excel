@@ -75,3 +75,26 @@ The dataset contains **1,465 rows** and **20 columns**, with each row representi
 - `Product_Link`: Link to the Amazon product page
 
 This structured dataset enabled deep exploration of consumer behavior, discount strategies, and category-level performance for better decision-making and dashboard storytelling.
+
+## 🛠 Tools Used for the Analysis
+
+The entire analysis was conducted in **Microsoft Excel**, leveraging its data exploration, transformation, and visualization features to derive meaningful business insights from Amazon product review data.
+
+- **Pivot Tables** were used extensively to summarize average discounts by category, count products, total review volumes, analyze rating distributions, and compare actual vs discounted prices.
+
+- **Calculated Columns** were created to derive custom metrics such as:
+  - `Discount Percentage`
+  - `Revenue` (Actual Price × Rating Count)
+  - `Price Bucket Range` (e.g., <₹200, ₹200–₹500, >₹500)
+  - `Discount ≥ 50%` (Boolean flag)
+
+- **Sorting & Filtering** enabled quick identification of top-rated products, most-reviewed items, and products with extreme discount values.
+
+- **Excel Functions** like `IF()`, `COUNTIF()`, `AVERAGE()`, and basic arithmetic were used for conditional logic and data transformation.
+
+- **Charts & Graphs** (including bar charts, pivot charts, and line chart) were used to visualize relationships such as between rating and discount level and display product rating distributions.
+
+- **Dashboard Features** like slicers, formatted cards, and conditional formatting were used to design an interactive and visually engaging report.
+
+Together, these tools provided a full pipeline from raw data interpretation to business-focused storytelling using Excel.
+
