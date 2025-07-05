@@ -328,4 +328,37 @@ The table below displays the **top 30 categories** with the highest average actu
 - **Basic accessories** (e.g., cable protectors, dust covers, lamps) retain **low actual prices** with **deep markdowns**, possibly to drive **impulse or bulk purchases**.
 - **Laptop and PC accessory segments** consistently show **pricing sensitivity**, revealing ample room for bundling, pricing strategies, or value packaging.
 
+## 6. Which products have the highest number of reviews?
+
+📌 **Approach**:  
+Using Excel:
+- Grouped by **Product Name**
+- Summed the **Rating_Count** field
+- Sorted the results in descending order
+- Extracted the **Top 10** most-reviewed products
+
+📈 **Result**:
+
+| Product Name | Total Number of Reviews |
+|--------------|--------------------------|
+| 3M Scotch Double Sided Heavy Duty Tape (1m holds 4.5Kgs) – for wall hanging and indoor use | 14,778 |
+| 3M Post-it Sticky Note Cube (4 colors x 50 sheets) – 3"x3" | 7,429 |
+| Acer 55” I Series 4K Ultra HD Android Smart LED TV (AR55AR2851UDFL) | 4,703 |
+| Acer 43” I Series 4K Ultra HD Android Smart LED TV (AR43AR2851UDFL) | 4,703 |
+| Acer 50” I Series 4K Ultra HD Android Smart LED TV (AR50AR2851UDFL) | 4,703 |
+| Acer 32” I Series HD Ready Android Smart LED TV (AR32AR2841HDFL) | 4,703 |
+| Acer 40” P Series Full HD Android Smart LED TV (AR40AR2841FDFL) | 4,702 |
+| Abode Kitchen Measuring Cup & Spoon Set – For Cooking/Baking (Black) | 4,074 |
+| HDMI 2.1 Cable – 10k/8k/4k Ultra High Speed Certified for TV/PS5/Xbox | 3,664 |
+| Acer 55” H Series 4K Ultra HD Android Smart LED TV (AR55AR2851UDPRO) | 1,611 |
+
+ Table listing the top 10 most-reviewed products based on total rating count, ranging from 1.6k to 14k+ reviews.
+
+---
+
+💡 **Insight**:  
+- **3M office supplies** dominate the top with overwhelming review volumes, likely due to low cost, broad utility, and repeated purchases.
+- **Acer Smart TVs** appear **6 times** in the top 10, showing **strong customer engagement** across multiple size segments.
+- The presence of **kitchen essentials** and **tech accessories** (like HDMI cables) emphasizes the popularity of **functional, everyday-use products**.
+
 
