@@ -131,7 +131,9 @@ Used an **Excel Pivot Table** where:
 - `Product Name` was counted in **Values** (Count)
 
 ### 📈 Result:
-A **bar chart** or **column chart** (recommended) can display the **top 10 categories** by product count for clearer interpretation.
+A snapshot of **bar chart** displaying the **top 10 categories** by product count for clearer interpretation.
+
+![Alt text]
 
 ### 🔍 Key Findings:
 - **Top category**:
