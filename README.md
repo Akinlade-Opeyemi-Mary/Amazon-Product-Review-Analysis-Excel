@@ -100,62 +100,62 @@ Together, these tools provided a full pipeline from raw data interpretation to b
 
 # 📈 ANALYSIS
 
-### 🔍 Question 1: What is the average discount percentage by product category?
+## 1. What is the average discount percentage by product category?
 
-#### 📌 Approach:
-To answer this, I used a **Pivot Table** where:
-- `Product Category` was placed in the **Rows**
-- `Discount Percentage` was placed in the **Values** and summarized as **Average**
+### 📌 Approach:
+This analysis was conducted using a **Pivot Table** in Excel:
+- `Product Category` was added to **Rows**
+- `Discount Percentage` was added to **Values**, summarized as **Average**
 
-#### 📈 Result:
-Below is a snapshot of the average discount across different product categories:
+### 📈 Result:
+A snapshot of the pivot output shows the **average discount percentage** applied across all product categories.
 
-![Alt text](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/615e0caaaccbc0bcfe1ccbbf39e1b17b4ff6064a/AVERAGE%20PRODUCT%20CATEGORY.JPG)
+![Alt text](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/615e0caaaccbc0bcfe1ccbbf39e1b17b4ff6064a/AVERAGE%20PRODUCT%20CATEGORY.JPG
 
-#### 💡 Insight
+### 💡 Insight:
+- Categories like **Mobile Accessories**, **Earpads**, **Internal Hard Drives**, and **OTG Adapters** show **extremely high average discounts** (70%–90%), indicating **heavy promotional efforts**.  
+  These may be clearance strategies, loss leaders, or tactics to boost listing visibility.
 
-Categories such as **Mobile Accessories**, **Earpads**, **Internal Hard Drives**, and **OTG Adapters** have average discounts ranging from **70% to 90%**, indicating aggressive promotional pricing strategies.  
-This may suggest attempts to boost visibility, compete in saturated markets, or quickly clear out overstocked inventory.
+- Conversely, **premium and essential items** such as **Laptops**, **Ink Cartridges**, and **Home Appliances** show **lower average discounts** (10%–30%), suggesting efforts to **preserve brand value** and maintain **profit margins**.
 
-In contrast, more essential or premium products such as **laptops**, **ink cartridges**, and **high-end home appliances** tend to offer much lower discounts (typically **10% to 30%**), likely reflecting their perceived value and the desire to maintain a premium brand position.
+### 🎯 Business Implication:
+- Heavy discounting could be leveraged to **drive traffic** or **clear excess stock**.
+- Low-discount categories likely represent **core revenue drivers** with **stable demand** and **pricing power**.
 
+---
 
-#### 🎯 Business Implication:
-- Sellers may focus high discounts on mobile and headphone accessories to attract price-sensitive customers.
-- Categories with lower discounts may rely on **brand strength** or **differentiated features**, not price competition.
+## 2. How many products are listed under each product category?
 
-### 📊 Analysis 2: Product Distribution per Category
+### 📌 Approach:
+Used an **Excel Pivot Table** where:
+- `Product Category` was added to **Rows**
+- `Product Name` was counted in **Values** (Count)
 
-This analysis focuses on understanding how many products are listed under each product category. The aim is to identify which categories dominate in volume and which ones are more niche or specialized.
+### 📈 Result:
+A **bar chart** or **column chart** (recommended) can display the **top 10 categories** by product count for clearer interpretation.
 
-#### 🔍 Key Findings:
+### 🔍 Key Findings:
+- **Top category**:
+  - `USB Cables` – **233 products**
 
-- The **top category** by product count is:
-  - **USB Cables** under `Computers & Accessories > Cables & Accessories > USB Cables` with **233** listings.
-  
-- Other high-volume categories include:
-  - **Smartwatches** – 76 products
-  - **Smartphones** – 68 products
-  - **Smart Televisions** – 63 products
+- Other high-volume categories:
+  - **Smartwatches** – 76 products  
+  - **Smartphones** – 68 products  
+  - **Smart Televisions** – 63 products  
   - **In-Ear Headphones** – 52 products
-  - **Remote Controls** – 49 products
 
-- On the other end, many subcategories have **only 1 product** listed, such as:
-  - Traditional Laptops
-  - Air Purifiers & Ionizers
-  - Earpads
-  - Webcams
-  - Memory
-  - Tablet Stands
-  - And more…
+- **Low-volume or niche categories** (1–3 products each):
+  - **Traditional Laptops**, **Earpads**, **Air Purifiers**, **Memory**, **Webcams**, etc.
 
-#### 💡 Insight:
+### 💡 Insight:
+- The data shows a **strong market focus** on **accessories and smart devices**, suggesting **high demand** or **low barrier to entry** in these segments.
+- Categories with **very few listings** may represent:
+  - **Untapped niches**
+  - **Supply gaps**
+  - Or **emerging demand areas**
 
-The data reveals a **high concentration of product listings in tech-related accessories** like USB cables and smart devices, which indicates a strong market presence or demand in those areas. These could be influenced by trends such as remote work, smart homes, and mobile tech upgrades.
+### 🎯 Business Implication:
+- Sellers can focus on **expanding inventory** in trending categories like smart accessories.
+- Niche categories offer opportunities for **early positioning** or **product diversification**.
 
-Meanwhile, the **long tail of categories with 1–5 products** suggests either:
-- A lack of inventory depth
-- Less consumer demand
-- Or emerging niches with potential for growth
-
-This uneven distribution can help businesses and sellers **prioritize categories** for inventory planning, marketing focus, or expansion strategies.
+---
