@@ -159,4 +159,54 @@ A snapshot of **bar chart** displaying the **top 10 categories** by product coun
 - Sellers can focus on **expanding inventory** in trending categories like smart accessories.
 - Niche categories offer opportunities for **early positioning** or **product diversification**.
 
----
+## 3. What is the total number of reviews per product category?
+
+### 📌 Approach:
+Used an **Excel Pivot Table** where:
+- `Product Category` was added to **Rows**
+- `Review_Id` was counted in **Values** (Count)
+
+### 📈 Result:
+A snapshot of bar chart displaying the **top 10 categories by total review count** for clearer interpretation.
+
+*Alt text: Bar chart showing total number of reviews by product category*
+
+### 🔍 Key Findings:
+- **Top-reviewed categories:**
+  - USB Cables – 233 reviews  
+  - Smartwatches – 76 reviews  
+  - Smartphones – 68 reviews  
+  - Smart Televisions – 63 reviews  
+  - In-Ear Headphones – 52 reviews  
+  - Remote Controls – 49 reviews  
+
+- **Low-volume or niche categories (1–3 reviews each):**
+  - Traditional Laptops  
+  - Earpads  
+  - External SSDs  
+  - Webcams  
+  - Camera Batteries  
+  - And more...
+
+### 💡 Insight:
+The data indicates a **high concentration of user reviews in mobile and smart tech accessories**, reflecting:
+- Strong customer interest  
+- Frequent usage  
+- Higher online engagement
+
+Categories with fewer reviews may:
+- Reflect **lower visibility** or **newer products**
+- Indicate **smaller customer bases**
+- Signal **niche opportunities** for sellers to build early product leadership
+
+#### 🎯 Business Implication:
+- High-review categories are ideal for:
+  - **Targeted promotions**
+  - **Product bundling**
+  - **Inventory scaling**
+
+- Low-review categories present opportunities to:
+  - **Launch awareness campaigns**
+  - **Encourage user-generated reviews**
+  - **Explore emerging demand or underserved needs**
+
