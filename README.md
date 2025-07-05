@@ -124,3 +124,38 @@ In contrast, more essential or premium products such as **laptops**, **ink cartr
 - Sellers may focus high discounts on mobile and headphone accessories to attract price-sensitive customers.
 - Categories with lower discounts may rely on **brand strength** or **differentiated features**, not price competition.
 
+### 📊 Analysis 2: Product Distribution per Category
+
+This analysis focuses on understanding how many products are listed under each product category. The aim is to identify which categories dominate in volume and which ones are more niche or specialized.
+
+#### 🔍 Key Findings:
+
+- The **top category** by product count is:
+  - **USB Cables** under `Computers & Accessories > Cables & Accessories > USB Cables` with **233** listings.
+  
+- Other high-volume categories include:
+  - **Smartwatches** – 76 products
+  - **Smartphones** – 68 products
+  - **Smart Televisions** – 63 products
+  - **In-Ear Headphones** – 52 products
+  - **Remote Controls** – 49 products
+
+- On the other end, many subcategories have **only 1 product** listed, such as:
+  - Traditional Laptops
+  - Air Purifiers & Ionizers
+  - Earpads
+  - Webcams
+  - Memory
+  - Tablet Stands
+  - And more…
+
+#### 💡 Insight:
+
+The data reveals a **high concentration of product listings in tech-related accessories** like USB cables and smart devices, which indicates a strong market presence or demand in those areas. These could be influenced by trends such as remote work, smart homes, and mobile tech upgrades.
+
+Meanwhile, the **long tail of categories with 1–5 products** suggests either:
+- A lack of inventory depth
+- Less consumer demand
+- Or emerging niches with potential for growth
+
+This uneven distribution can help businesses and sellers **prioritize categories** for inventory planning, marketing focus, or expansion strategies.
