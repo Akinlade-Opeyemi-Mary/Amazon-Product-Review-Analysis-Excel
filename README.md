@@ -110,7 +110,7 @@ This analysis was conducted using a **Pivot Table** in Excel:
 ### 📈 Result:
 A snapshot of the pivot output shows the **average discount percentage** applied across all product categories.
 
-![Alt text]
+![Alt text](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/ec96f0d1637f6bca0e3c207ee41117cef726e746/AVERAGE%20PRODUCT%20CATEGORY.JPG)
 ### 💡 Insight:
 - Categories like **Mobile Accessories**, **Earpads**, **Internal Hard Drives**, and **OTG Adapters** show **extremely high average discounts** (70%–90%), indicating **heavy promotional efforts**.  
   These may be clearance strategies, loss leaders, or tactics to boost listing visibility.
