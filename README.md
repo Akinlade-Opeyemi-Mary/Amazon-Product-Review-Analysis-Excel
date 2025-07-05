@@ -46,7 +46,7 @@ These objectives guided the creation of pivot tables, calculated columns, and vi
 # 📂 SOURCES
 
 **Dataset Origin**:  
-This dataset was provided by Digital Skills Africa / The Incubator Hub as part of the Excel capstone project. It simulates real-world e-commerce data scraped from Amazon product pages, with a focus on product pricing, customer reviews, and engagement metrics.
+This dataset was provided by Digital Skills Africa / The Incubator Hub as part of the Excel capstone project. https://canvas.instructure.com/courses/11955369/files/folder/DSA%20Capstone%20Project%20Files?preview=302721273
 
 **Dataset Overview**:  
 The dataset contains **1,465 rows** and **20 columns**, with each row representing a unique product and its aggregated review data.
