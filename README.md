@@ -98,3 +98,26 @@ The entire analysis was conducted in **Microsoft Excel**, leveraging its data ex
 
 Together, these tools provided a full pipeline from raw data interpretation to business-focused storytelling using Excel.
 
+# 📈 ANALYSIS
+
+### 🔍 Question 1: What is the average discount percentage by product category?
+
+#### 📌 Approach:
+To answer this, I used a **Pivot Table** where:
+- `Product Category` was placed in the **Rows**
+- `Discount Percentage` was placed in the **Values** and summarized as **Average**
+
+#### 📈 Result:
+Below is a snapshot of the average discount across different product categories:
+
+![Average Discount by Product Category](assets/avg_discount_category.png)
+
+> 💡 **Insight:**  
+> Categories such as *Mobile Accessories, Earpads, Internal Hard Drives,* and *OTG Adapters* have average discounts of over **70–90%**, indicating heavy promotional pricing strategies.  
+> This may be an effort to boost visibility or clear out overstocked items.  
+> On the other hand, essential or high-end products (e.g., laptops, ink cartridges, home appliances) tend to have much **lower discounts (10–30%)**, possibly to retain premium value.
+
+#### 🎯 Business Implication:
+- Sellers may focus high discounts on mobile and headphone accessories to attract price-sensitive customers.
+- Categories with lower discounts may rely on **brand strength** or **differentiated features**, not price competition.
+
