@@ -110,7 +110,7 @@ To answer this, I used a **Pivot Table** where:
 #### 📈 Result:
 Below is a snapshot of the average discount across different product categories:
 
-![Average Discount by Product Category](assets/avg_discount_category.png)
+![Alt text](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/615e0caaaccbc0bcfe1ccbbf39e1b17b4ff6064a/AVERAGE%20PRODUCT%20CATEGORY.JPG)
 
 > 💡 **Insight:**  
 > Categories such as *Mobile Accessories, Earpads, Internal Hard Drives,* and *OTG Adapters* have average discounts of over **70–90%**, indicating heavy promotional pricing strategies.  
