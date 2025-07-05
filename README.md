@@ -170,8 +170,6 @@ Used an **Excel Pivot Table** where:
 ### 📈 Result:
 A snapshot of column chart displaying the **top 10 categories by total review count** for clearer interpretation.
 
-*Alt text: Column chart showing total number of reviews by product category*
-
 ![Alt text](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/bc76dd4370a9d7d259fe8d1afc9e611cab7bf4e4/total%20product%20by%20Category.JPG)
 
 ### 🔍 Key Findings:
