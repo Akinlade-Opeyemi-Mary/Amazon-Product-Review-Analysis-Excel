@@ -1,4 +1,4 @@
-# Amazon-Product-Review-Analysis-Excel
+![image](https://github.com/user-attachments/assets/363f5793-6349-4f4a-a061-84b2c5db0d5e)# Amazon-Product-Review-Analysis-Excel
 📊 Excel Case Study  Analyzing Amazon product reviews to uncover insights on pricing, discounts, ratings, and customer engagement. Includes pivot tables, data cleaning, and an interactive Excel dashboard
 
 # 📘 INTRODUCTION
@@ -495,3 +495,20 @@ Top 10 categories by total potential revenue:
 
 💡 **Insight**:
 - **Product discounting appears to be independent of product rating**, which might suggest that discounts are driven more by marketing campaigns, inventory turnover, or product lifecycle stages than customer satisfaction.
+
+## 12. How many products have fewer than 1,000 reviews?
+
+📌 **Approach**:
+- Filtered the dataset to identify products with **less than 1,000 reviews**.
+- Counted unique products within this threshold.
+
+📈 **Result**:
+- **1,465 products** have fewer than **1,000 customer reviews**.
+
+🔍 **Key Findings**:
+- A significant portion of the catalog has **limited customer feedback**, suggesting low engagement or recent market entry.
+- These products may lack sufficient review volume to build customer trust and influence buying decisions.
+
+💡 **Insight**:
+- There is a **huge opportunity for sellers to boost visibility and trust** for the majority of products by encouraging more user reviews through post-purchase follow-ups, incentives, or better marketing visibility.
+
