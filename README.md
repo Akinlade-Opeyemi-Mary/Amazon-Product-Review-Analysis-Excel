@@ -392,7 +392,7 @@ The chart below shows how product ratings are distributed across the dataset.
 - The concentration around the **4-star range** shows overall customer satisfaction but leaves room for improvement.
 - Products rated below **3.5** might need review attention, product fixes, or reconsideration in promotional strategy.
 
-### 9. What is the total potential revenue by category?
+## 9. What is the total potential revenue by category?
 
 📌 **Approach**:
 - Computed **total potential revenue** using:
@@ -429,4 +429,34 @@ Top 10 categories by total potential revenue:
 - These top categories are ideal for **targeted advertising**, **flash sales**, or **bundle deals** to convert high potential revenue into actual earnings.
 - The combination of **unit cost × popularity** drives these figures — suggesting focus should remain on both **product visibility** and **value-for-money messaging**.
 
+## 10. What is the number of unique products per price range bucket?
+
+📌 **Approach**:
+- Grouped all products into **price range buckets**:
+  - `< ₹200`
+  - `₹200–₹500`
+  - `> ₹500`
+- Counted the number of **unique Product IDs** in each bucket to analyze pricing distribution.
+
+📈 **Result**:
+
+| Price Range | Number of Unique Products |
+|-------------|----------------------------|
+| `< ₹200` | 199 |
+| `₹200–₹500` | 377 |
+| `> ₹500` | 889 |
+
+🔍 **Key Findings**:
+- A **majority (889 products)** fall into the **premium price range (> ₹500)**.
+- The **mid-tier range (₹200–₹500)** contains a healthy spread of **377 products**.
+- Only **199 products** are priced below ₹200, making low-cost items the smallest segment.
+
+💡 **Insight**:
+- The product catalog is **heavily skewed toward higher-priced items**, which may suggest a **focus on quality or high-value goods**.
+- Mid-tier products represent a **balanced offering**, while the low-end may present **missed opportunities for price-sensitive consumers**.
+
+🎯 **Business Implication**:
+- **Expand or promote the low-cost segment** (< ₹200) to attract budget-conscious customers or new market entrants.
+- **Bundle mid-tier items** to create value deals and increase volume sales.
+- Use high-priced items in **personalized recommendations** or **premium category ads** targeting higher-spending users.
 
