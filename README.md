@@ -405,3 +405,41 @@ The chart below shows how product ratings are distributed across the dataset.
 - The concentration around the **4-star range** shows overall customer satisfaction but leaves room for improvement.
 - Products rated below **3.5** might need review attention, product fixes, or reconsideration in promotional strategy.
 
+### 9. What is the total potential revenue by category?
+
+📌 **Approach**:
+- Computed **total potential revenue** using:
+  
+  \[
+  \text{Potential Revenue} = \text{Actual Price} \times \text{Rating Count}
+  \]
+
+- Grouped the data by product category
+- Summarized the top 10 categories by **highest potential revenue**
+
+📈 **Result**:
+Top 10 categories by total potential revenue:
+
+| Product Category | Total Potential Revenue (₦) |
+|------------------|-----------------------------|
+| Smartphones | ₦38,500,723,825 |
+| Smart Televisions | ₦26,237,061,348 |
+| Smartwatches | ₦13,274,477,088 |
+| In-Ear Headphones | ₦7,891,731,253 |
+| USB Cables | ₦2,989,269,763 |
+| MicroSD Memory Cards | ₦2,615,837,993 |
+| Mixer Grinders | ₦1,641,979,238 |
+| Power Banks | ₦1,597,847,790 |
+| On-Ear Headphones | ₦1,585,622,750 |
+| HDMI Cables | ₦1,569,588,545 |
+
+🔍 **Key Findings**:
+- **Smartphones and Smart TVs** dominate the potential revenue chart, accounting for over ₦64 billion combined.
+- Accessories like **USB cables**, **headphones**, and **power banks** also contribute significantly due to high volume and steady demand.
+- **Kitchen appliances** like **mixer grinders** and **high-capacity cables** show strong purchase intent.
+
+💡 **Insight**:
+- These top categories are ideal for **targeted advertising**, **flash sales**, or **bundle deals** to convert high potential revenue into actual earnings.
+- The combination of **unit cost × popularity** drives these figures — suggesting focus should remain on both **product visibility** and **value-for-money messaging**.
+
+
