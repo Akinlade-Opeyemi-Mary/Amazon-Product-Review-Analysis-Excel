@@ -513,3 +513,28 @@ Displayed below is a pivot table of the top categories offering the **highest di
 💡 **Insight**:
 - These categories may be **highly competitive**, **overstocked**, or driven by **aggressive price promotions** to boost sales volume.
 - A potential **marketing strategy** might focus on bundling or upselling such high-discount items.
+
+### 14. Identify the Top 5 Products in Terms of Rating and Number of Reviews Combined
+
+📌 **Approach**:
+- Ranked products by a **combined metric**: number of reviews × average rating.
+- Selected the **top 5 products** with the highest combined influence.
+- Calculated each product's **potential revenue** for business context.
+
+📈 **Result**:
+Below is a chart showing the top 5 products by combined rating and review count, highlighting their potential revenue impact.
+
+![Alt text](your-chart-path.png)
+
+🔍 **Key Findings**:
+- The **highest impact product** generated over **₹597 million** in potential revenue.
+- All top performers fall within highly reviewed categories, suggesting:
+  - Strong user engagement.
+  - Consistent product satisfaction.
+- Products with both high ratings and high review counts tend to dominate visibility and conversions.
+
+💡 **Insight**:
+These top products are ideal for:
+- Featuring in premium ad placements.
+- Highlighting in recommendation engines.
+- Studying for best practices in customer satisfaction and marketing alignment.
