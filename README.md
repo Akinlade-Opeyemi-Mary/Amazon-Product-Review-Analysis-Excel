@@ -372,7 +372,7 @@ Using Excel:
 📈 **Result**:  
  A pivot table image below for a detailed view of products with 50% or more discounts.
 
-![Top Discounted Products Pivot Table](your-image-file-name.png)
+![Alt text](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/00cd0acb3356217b06eeb1da90ee61a0f19ba525/50%20%2B.JPG)
 
 🔍 **Key Findings**:
 - Multiple **home appliances** and **tech accessories** are offered at **steep discounts** (50% and above).
