@@ -304,21 +304,8 @@ The table below displays the **top 30 categories** with the highest average actu
 | Home&Kitchen → Air Fryers | $12,116.80 | $6,276.40 |
 | Home&Kitchen → Storage Water Heaters | $11,738.17 | $6,323.33 |
 | Home&Kitchen → Stand Mixers | $11,495.00 | $5,999.00 |
-| Home&Kitchen → Wet-Dry Vacuums | $9,856.83 | $5,646.33 |
-| Home&Kitchen → Room Heaters | $9,499.50 | $4,524.00 |
-| Home&Kitchen → Pressure Washers & Steam Cleaners | $9,329.33 | $5,229.00 |
-| Electronics → Smart Watches | $8,554.76 | $2,339.70 |
-| Home&Kitchen → Canister Vacuums | $7,448.25 | $5,399.00 |
-| Computers&Accessories → Inkjet Printers | $6,750.00 | $5,923.50 |
-| Computers&Accessories → Printers | $5,897.65 | $5,065.67 |
-| Home&Kitchen → Espresso Machines | $5,795.00 | $4,799.00 |
-| Home&Kitchen → Juicers | $5,597.00 | $3,499.00 |
-| Home&Kitchen → Oven Toaster Grills | $5,497.00 | $5,149.00 |
-| Home&Kitchen → Mixer Grinders | $5,289.59 | $3,004.72 |
-| Electronics → Security Cameras → Dome Cameras | $5,097.60 | $2,757.20 |
-| Home&Kitchen → Handheld Vacuums | $5,059.38 | $2,780.38 |
 
- Table showing average actual and discounted prices by category (top 30 categories)
+ Table showing average actual and discounted prices by category (top 20 categories)
 
 ---
 
