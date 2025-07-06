@@ -361,4 +361,26 @@ Using Excel:
 - **Acer Smart TVs** appear **6 times** in the top 10, showing **strong customer engagement** across multiple size segments.
 - The presence of **kitchen essentials** and **tech accessories** (like HDMI cables) emphasizes the popularity of **functional, everyday-use products**.
 
+## 7. How many products have a discount of 50% or more?
+
+📌 **Approach**:  
+- Calculated **discount percentage** using:  
+  `(Actual Price - Discounted Price) / Actual Price * 100`
+- Created a **Pivot Table** to group by Product Name and compute the average discount percentage.
+- Filtered the results to include only products with **≥ 50% discount**.
+
+📈 **Result**:  
+ A pivot table image below for a detailed view of products with 50% or more discounts.
+
+![Top Discounted Products Pivot Table](your-image-file-name.png)
+
+🔍 **Key Findings**:
+- Multiple **home appliances** and **tech accessories** are offered at **steep discounts** (50% and above).
+- Brands like **AGARO**, **Amazon Basics**, and **Akiara** frequently appear, suggesting aggressive pricing strategies.
+- High-discount items span across **room heaters, sewing machines, HDMI cables, speakers, and kettles**.
+
+💡 **Insight**:
+- These heavy-discounted products could be part of **seasonal sales** or **inventory clearance**.
+- Customers looking for value buys are likely drawn to these high-discount categories, which can be leveraged in targeted promotions or bundle deals.
+
 
