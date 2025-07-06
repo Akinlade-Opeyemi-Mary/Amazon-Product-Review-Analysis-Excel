@@ -393,7 +393,7 @@ Using Excel:
 📈 **Result**:
 The chart below shows how product ratings are distributed across the dataset.
 
-![Product Rating Distribution](your-chart-image-name.png)
+![Alt text](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/129c3b26e1e4bbcfff72f97dfdd84ab18a0328d0/rate%20distrubrution.JPG)
 
 🔍 **Key Findings**:
 - Most products are rated between **4.0 and 4.3**, indicating generally **positive customer feedback**.
