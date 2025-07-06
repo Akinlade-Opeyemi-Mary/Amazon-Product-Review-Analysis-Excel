@@ -567,7 +567,7 @@ An interactive Excel dashboard was created using:
 - Summary KPIs
 
 📸 **Preview:**
-![Dashboard Preview](./Images/dashboard-preview.png)
+![Alt text](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/83b390a761bfd5cffa04d5e9bb601e8961e3915a/Excel%20Dashbordd.JPG)
 
 > The dashboard visually presents insights on product performance, pricing, and reviews to support data-driven business decisions.
 
@@ -581,7 +581,6 @@ An interactive Excel dashboard was created using:
 
 ## 📂 Files Included
 - `Excel-Dashboard.xlsx` – Final interactive dashboard
-- `cleaned_dataset.xlsx` – (Optional) Processed data used in analysis
 - `Images/` – Screenshots of visual results
 
 ---
