@@ -503,7 +503,7 @@ Top 10 categories by total potential revenue:
 📈 **Result**:
 Displayed below is a pivot table of the top categories offering the **highest discounts**, with values ranging from **80% to 94%**.
 
-![Top Discounted Categories](your-image-path.png)
+![Alt text]([your-image-path.png](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/9e23b64828a3878684ef49e20c5000d63d2b361f/vew%20rating.JPG))
 
 🔍 **Key Findings**:
 - Some niche electronics and accessory categories offer discounts as high as **90–94%**.
