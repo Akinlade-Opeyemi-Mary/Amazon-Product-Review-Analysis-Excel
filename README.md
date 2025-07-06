@@ -460,3 +460,38 @@ Top 10 categories by total potential revenue:
 - **Bundle mid-tier items** to create value deals and increase volume sales.
 - Use high-priced items in **personalized recommendations** or **premium category ads** targeting higher-spending users.
 
+## 11. How does the rating relate to the level of discount?
+
+📌 **Approach**:
+- Analyzed the relationship between **product ratings** and their corresponding **discount levels**.
+- Focused on identifying if higher-rated products tend to receive more, less, or equal discount treatment.
+
+📈 **Result**:
+- Total Products Analyzed: **1,465**
+- The distribution did **not reveal a strong correlation** between product rating and discount levels.
+- Products across all rating bands (3.0 to 4.8) showed a **wide range of discount percentages**, indicating **inconsistent discounting strategy**.
+
+🔍 **Key Findings**:
+- Both highly-rated (4.5+) and moderately-rated (3.5–4.2) products received **similar discount treatments**.
+- Some **lower-rated products** (<3.5) were also heavily discounted, possibly as an incentive to boost sales or clear inventory.
+
+💡 **Insight**:
+- **Product discounting appears to be independent of product rating**, which might suggest that discounts are driven more by marketing campaigns, inventory turnover, or product lifecycle stages than customer satisfaction.
+
+### 11. How does the rating relate to the level of discount?
+
+📌 **Approach**:
+- Analyzed the relationship between **product ratings** and their corresponding **discount levels**.
+- Focused on identifying if higher-rated products tend to receive more, less, or equal discount treatment.
+
+📈 **Result**:
+- Total Products Analyzed: **1,465**
+- The distribution did **not reveal a strong correlation** between product rating and discount levels.
+- Products across all rating bands (3.0 to 4.8) showed a **wide range of discount percentages**, indicating **inconsistent discounting strategy**.
+
+🔍 **Key Findings**:
+- Both highly-rated (4.5+) and moderately-rated (3.5–4.2) products received **similar discount treatments**.
+- Some **lower-rated products** (<3.5) were also heavily discounted, possibly as an incentive to boost sales or clear inventory.
+
+💡 **Insight**:
+- **Product discounting appears to be independent of product rating**, which might suggest that discounts are driven more by marketing campaigns, inventory turnover, or product lifecycle stages than customer satisfaction.
