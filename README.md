@@ -524,7 +524,7 @@ Displayed below is a pivot table of the top categories offering the **highest di
 📈 **Result**:
 Below is a chart showing the top 5 products by combined rating and review count, highlighting their potential revenue impact.
 
-![Alt text](your-chart-path.png)
+![Alt text](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/ef1cac27734d7c20fdaac4237a6a3de0a8e81f5d/top%20rati%20g.JPG)
 
 🔍 **Key Findings**:
 - The **highest impact product** generated over **₹597 million** in potential revenue.
