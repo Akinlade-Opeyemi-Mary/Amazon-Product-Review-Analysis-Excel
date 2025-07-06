@@ -494,3 +494,22 @@ Top 10 categories by total potential revenue:
 💡 **Insight**:
 - There is a **huge opportunity for sellers to boost visibility and trust** for the majority of products by encouraging more user reviews through post-purchase follow-ups, incentives, or better marketing visibility.
 
+### 13. Which categories have products with the highest discounts?
+
+📌 **Approach**:
+- Grouped products by category.
+- Calculated the **maximum discount percentage** per category.
+
+📈 **Result**:
+Displayed below is a pivot table of the top categories offering the **highest discounts**, with values ranging from **80% to 94%**.
+
+![Top Discounted Categories](your-image-path.png)
+
+🔍 **Key Findings**:
+- Some niche electronics and accessory categories offer discounts as high as **90–94%**.
+- Examples include **USB to USB Adapters**, **Smartwatches**, **Earpads**, and **Phone Charms**.
+- These high discounts are concentrated in **tech accessories**, **mobile add-ons**, and **home gadgets**.
+
+💡 **Insight**:
+- These categories may be **highly competitive**, **overstocked**, or driven by **aggressive price promotions** to boost sales volume.
+- A potential **marketing strategy** might focus on bundling or upselling such high-discount items.
