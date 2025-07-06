@@ -383,4 +383,25 @@ Using Excel:
 - These heavy-discounted products could be part of **seasonal sales** or **inventory clearance**.
 - Customers looking for value buys are likely drawn to these high-discount categories, which can be leveraged in targeted promotions or bundle deals.
 
+## 8. What is the distribution of product ratings?
+
+📌 **Approach**:
+- Used a Pivot Table in Excel to group by product `Rating`.
+- Counted the number of products for each rating.
+- Sorted ratings in descending order to analyze distribution patterns.
+
+📈 **Result**:
+The chart below shows how product ratings are distributed across the dataset.
+
+![Product Rating Distribution](your-chart-image-name.png)
+
+🔍 **Key Findings**:
+- Most products are rated between **4.0 and 4.3**, indicating generally **positive customer feedback**.
+- The **peak rating** is **4.1**, with **244 products**.
+- Very few products have ratings below 3.5 or above 4.6.
+- Only **3 products** received a **perfect 5.0 rating**, suggesting customers are conservative with full scores.
+
+💡 **Insight**:
+- The concentration around the **4-star range** shows overall customer satisfaction but leaves room for improvement.
+- Products rated below **3.5** might need review attention, product fixes, or reconsideration in promotional strategy.
 
