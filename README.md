@@ -494,7 +494,7 @@ Top 10 categories by total potential revenue:
 💡 **Insight**:
 - There is a **huge opportunity for sellers to boost visibility and trust** for the majority of products by encouraging more user reviews through post-purchase follow-ups, incentives, or better marketing visibility.
 
-### 13. Which categories have products with the highest discounts?
+## 13. Which categories have products with the highest discounts?
 
 📌 **Approach**:
 - Grouped products by category.
@@ -514,7 +514,7 @@ Displayed below is a pivot table of the top categories offering the **highest di
 - These categories may be **highly competitive**, **overstocked**, or driven by **aggressive price promotions** to boost sales volume.
 - A potential **marketing strategy** might focus on bundling or upselling such high-discount items.
 
-### 14. Identify the Top 5 Products in Terms of Rating and Number of Reviews Combined
+## 14. Identify the Top 5 Products in Terms of Rating and Number of Reviews Combined
 
 📌 **Approach**:
 - Ranked products by a **combined metric**: number of reviews × average rating.
