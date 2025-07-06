@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/363f5793-6349-4f4a-a061-84b2c5db0d5e)# Amazon-Product-Review-Analysis-Excel
+# Amazon-Product-Review-Analysis-Excel
 📊 Excel Case Study  Analyzing Amazon product reviews to uncover insights on pricing, discounts, ratings, and customer engagement. Includes pivot tables, data cleaning, and an interactive Excel dashboard
 
 # 📘 INTRODUCTION
