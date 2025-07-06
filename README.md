@@ -538,3 +538,55 @@ These top products are ideal for:
 - Featuring in premium ad placements.
 - Highlighting in recommendation engines.
 - Studying for best practices in customer satisfaction and marketing alignment.
+
+
+# 🛒 Amazon Product Review Analysis
+
+## 📌 Project Overview
+This Excel-based project analyzes Amazon product data to extract meaningful insights around customer ratings, pricing, and sales trends. It includes a dynamic dashboard summarizing 14 business-driven questions.
+
+---
+
+## 📈 Key Analyses Conducted
+1. Top-rated product categories
+2. Most reviewed products
+3. Rating vs. Discount relationship
+4. Products with highest potential revenue
+5. Unique product distribution by price bucket
+6. Products with fewer than 1,000 reviews
+7. Categories with highest average discounts
+...and more
+
+---
+
+## 📊 Excel Dashboard
+An interactive Excel dashboard was created using:
+- Pivot tables
+- Dynamic charts
+- Conditional formatting
+- Summary KPIs
+
+📸 **Preview:**
+![Dashboard Preview](./Images/dashboard-preview.png)
+
+> The dashboard visually presents insights on product performance, pricing, and reviews to support data-driven business decisions.
+
+---
+
+## 💡 Tools Used
+- Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
+- Data Cleaning & Transformation
+
+---
+
+## 📂 Files Included
+- `Excel-Dashboard.xlsx` – Final interactive dashboard
+- `cleaned_dataset.xlsx` – (Optional) Processed data used in analysis
+- `Images/` – Screenshots of visual results
+
+---
+
+## 👤 Author
+**Akinlade Opeyemi Mary**  
+[LinkedIn Profile](#Akinlade Opeyemi Mary)
+
