@@ -287,23 +287,24 @@ The table below displays the **top 30 categories** with the highest average actu
 
 | Product Category | Avg Actual Price | Avg Discounted Price |
 |------------------|------------------|------------------------|
-| Home&Kitchen → Heating, Cooling & Air Quality → Split-System Air Conditioners | $75,990.00 | $42,990.00 |
-| Computers&Accessories → Laptops → Traditional Laptops | $59,890.00 | $37,247.00 |
-| Home&Kitchen → Vacuum & Floor Care → Robotic Vacuums | $44,949.50 | $23,449.50 |
-| Electronics → Televisions → Smart Televisions | $40,132.84 | $24,840.19 |
-| Computers&Accessories → Tablets | $37,999.00 | $26,999.00 |
-| Computers&Accessories → External Solid State Drives | $32,000.00 | $10,389.00 |
-| Home&Kitchen → Air Purifiers → HEPA Air Purifiers | $27,113.25 | $11,917.00 |
-| Home&Kitchen → Cold Press Juicers | $23,999.00 | $12,609.00 |
-| Electronics → Smartphones | $20,593.40 | $15,754.44 |
-| Electronics → Projectors | $18,293.33 | $9,990.00 |
-| Computers&Accessories → Monitors | $16,430.00 | $8,199.00 |
-| Home&Kitchen → Water Purifiers | $15,618.83 | $7,015.25 |
-| Electronics → Televisions → Standard Televisions | $15,329.67 | $7,180.83 |
-| Electronics → Soundbar Speakers | $12,499.00 | $4,999.00 |
-| Home&Kitchen → Air Fryers | $12,116.80 | $6,276.40 |
-| Home&Kitchen → Storage Water Heaters | $11,738.17 | $6,323.33 |
-| Home&Kitchen → Stand Mixers | $11,495.00 | $5,999.00 |
+| Home&Kitchen → Heating, Cooling & Air Quality → Split-System Air Conditioners | ₹75,990.00 | ₹42,990.00 |
+| Computers&Accessories → Laptops → Traditional Laptops | ₹59,890.00 | ₹37,247.00 |
+| Home&Kitchen → Vacuum & Floor Care → Robotic Vacuums | ₹44,949.50 | ₹23,449.50 |
+| Electronics → Televisions → Smart Televisions | ₹40,132.84 | ₹24,840.19 |
+| Computers&Accessories → Tablets | ₹37,999.00 | ₹26,999.00 |
+| Computers&Accessories → External Solid State Drives | ₹32,000.00 | ₹10,389.00 |
+| Home&Kitchen → Air Purifiers → HEPA Air Purifiers | ₹27,113.25 | ₹11,917.00 |
+| Home&Kitchen → Cold Press Juicers | ₹23,999.00 | ₹12,609.00 |
+| Electronics → Smartphones | ₹20,593.40 | ₹15,754.44 |
+| Electronics → Projectors | ₹18,293.33 | ₹9,990.00 |
+| Computers&Accessories → Monitors | ₹16,430.00 | ₹8,199.00 |
+| Home&Kitchen → Water Purifiers | ₹15,618.83 | ₹7,015.25 |
+| Electronics → Televisions → Standard Televisions | ₹15,329.67 | ₹7,180.83 |
+| Electronics → Soundbar Speakers | ₹12,499.00 | ₹4,999.00 |
+| Home&Kitchen → Air Fryers | ₹12,116.80 | ₹6,276.40 |
+| Home&Kitchen → Storage Water Heaters | ₹11,738.17 | ₹6,323.33 |
+| Home&Kitchen → Stand Mixers | ₹11,495.00 | ₹5,999.00 |
+
 
  Table showing average actual and discounted prices by category (top 20 categories)
 
@@ -407,21 +408,21 @@ The chart below shows how product ratings are distributed across the dataset.
 📈 **Result**:
 Top 10 categories by total potential revenue:
 
-| Product Category | Total Potential Revenue (₦) |
-|------------------|-----------------------------|
-| Smartphones | ₦38,500,723,825 |
-| Smart Televisions | ₦26,237,061,348 |
-| Smartwatches | ₦13,274,477,088 |
-| In-Ear Headphones | ₦7,891,731,253 |
-| USB Cables | ₦2,989,269,763 |
-| MicroSD Memory Cards | ₦2,615,837,993 |
-| Mixer Grinders | ₦1,641,979,238 |
-| Power Banks | ₦1,597,847,790 |
-| On-Ear Headphones | ₦1,585,622,750 |
-| HDMI Cables | ₦1,569,588,545 |
+| Product Category         | Total Potential Revenue (₹) |
+|--------------------------|-----------------------------|
+| Smartphones              | ₹2,310,043,429              |
+| Smart Televisions        | ₹1,574,223,681              |
+| Smartwatches             | ₹796,468,625                |
+| In-Ear Headphones        | ₹473,503,875                |
+| USB Cables               | ₹179,356,186                |
+| MicroSD Memory Cards     | ₹156,950,280                |
+| Mixer Grinders           | ₹98,518,754                 |
+| Power Banks              | ₹95,870,867                 |
+| On-Ear Headphones        | ₹95,137,365                 |
+| HDMI Cables              | ₹94,175,313                 |
 
 🔍 **Key Findings**:
-- **Smartphones and Smart TVs** dominate the potential revenue chart, accounting for over ₦64 billion combined.
+- **Smartphones and Smart TVs** dominate the potential revenue chart, accounting for over ₹64 billion combined.
 - Accessories like **USB cables**, **headphones**, and **power banks** also contribute significantly due to high volume and steady demand.
 - **Kitchen appliances** like **mixer grinders** and **high-capacity cables** show strong purchase intent.
 
